@@ -126,3 +126,8 @@ Nessa atividade, você está recebendo uma patente americana (United States Pate
 3) Data de publicação.
 4) Resumo (abstract).
 5) Reivindicações (claims).
+
+
+gerar o scanner: jflex patente.flex
+compilar: javac Main.java Patente.java
+executar analizador: java Main
